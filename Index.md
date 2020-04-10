@@ -26,7 +26,7 @@ Attendees:
 - [Joe Glombek](https://twitter.com/joeglombek)
 - [Pete Duncanson & Seth](https://twitter.com/peteduncanson)
 - [Arkadiusz Biel](https://twitter.com/bielu1)
-- [Janae Cram] (https://twitter.com/naepalm)
+- [Janae Cram](https://twitter.com/naepalm)
 - Andreea Covaciu
 
 # Wish you were here!
