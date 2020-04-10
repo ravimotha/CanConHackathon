@@ -29,7 +29,7 @@ Attendees:
 - [Arkadiusz Biel](https://twitter.com/bielu1)
 - [Janae Cram](https://twitter.com/naepalm)
 - Andreea Covaciu
-
+- [Nik Rimington](https://twitter.com/hotchillicode)
 # Wish you were here!
 If you can't make it but want to add youself to the guest book, add here!💜
 
