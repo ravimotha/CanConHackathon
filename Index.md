@@ -9,6 +9,7 @@ Attendees:
 - [Busra Parnell](https://twitter.com/onlybusranow)
 - [Thomas Morris](https://twitter.com/mozzydev)
 - James Wilkinson
+- [Erica Quessenberry] (https://twitter.com/reddesigns)
 - [Emma Burstow](https://twitter.com/emaburst)
 - [Jan Skovgaard Olsen](https://twitter.com/therealbatjan)
 - [Laura Weatherhead](https://twitter.com/lssweatherhead)
