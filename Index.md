@@ -30,6 +30,7 @@ Attendees:
 - [Janae Cram](https://twitter.com/naepalm)
 - Andreea Covaciu
 - [Nik Rimington](https://twitter.com/hotchillicode)
+- [Allan Kirk](https://twitter.com/MrAllanKirk)
 # Wish you were here!
 If you can't make it but want to add youself to the guest book, add here!💜
 
